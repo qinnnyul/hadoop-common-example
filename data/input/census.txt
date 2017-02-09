@@ -1,0 +1,6 @@
+never, male, 40
+married, male, 13
+divorce, male, 40
+married, male, 40
+married, female, 40
+married, female, 40
